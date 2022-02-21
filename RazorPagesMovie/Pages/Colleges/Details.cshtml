@@ -1,0 +1,43 @@
+@page "{id:int?}"
+@model RazorPagesMovie.Pages_Colleges.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>College</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.College.CollegeName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.College.CollegeName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.College.EstablishmentDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.College.EstablishmentDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.College.Country)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.College.Country)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.College.NumberOfStudents)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.College.NumberOfStudents)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.College.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
