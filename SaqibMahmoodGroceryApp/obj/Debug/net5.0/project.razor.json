@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -651152848,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodGroceryApp.Pages.Counter",
-        "AssemblyName": "SaqibMahmoodGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -106710120,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodGroceryApp.Pages.Counter",
-        "AssemblyName": "SaqibMahmoodGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SaqibMahmoodGroceryApp.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1525513289,
         "Kind": "Components.Component",
         "Name": "SaqibMahmoodGroceryApp.Pages.FetchData",
@@ -111,6 +78,39 @@
         }
       },
       {
+        "HashCode": -651152848,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodGroceryApp.Pages.Counter",
+        "AssemblyName": "SaqibMahmoodGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -106710120,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodGroceryApp.Pages.Counter",
+        "AssemblyName": "SaqibMahmoodGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SaqibMahmoodGroceryApp.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1531324860,
         "Kind": "Components.Component",
         "Name": "SaqibMahmoodGroceryApp.Pages.GroceryStore",
@@ -140,39 +140,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.GroceryStore",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1832272681,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodGroceryApp.App",
-        "AssemblyName": "SaqibMahmoodGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodGroceryApp.App"
-        }
-      },
-      {
-        "HashCode": -1247566108,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodGroceryApp.App",
-        "AssemblyName": "SaqibMahmoodGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SaqibMahmoodGroceryApp.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodGroceryApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -355,6 +322,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SaqibMahmoodGroceryApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1832272681,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodGroceryApp.App",
+        "AssemblyName": "SaqibMahmoodGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodGroceryApp.App"
+        }
+      },
+      {
+        "HashCode": -1247566108,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodGroceryApp.App",
+        "AssemblyName": "SaqibMahmoodGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SaqibMahmoodGroceryApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodGroceryApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

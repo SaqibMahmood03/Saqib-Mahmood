@@ -1,11 +1,14 @@
 ﻿@page "/GroceryStore"
-<h3>GroceryStore</h3>
+<h3>GroceryStore (@GroceryStorelist.Count(SingleFoodItem => !SingleFoodItem.IsDone))</h3>
 
-<input placeholder="Search" @bind="newGroceryStore" />
-<button @onclick="AddGroceryStore">Add GroceryStore</button>
+<input placeholder="Search" @bind="newGroceryStoreTitle" />
+<button @onclick="AddGroceryStore">Add FoodItem</button>
 
 <ul>
     @foreach (var GroceryStore in GroceryStorelist)
+    {
+        @if (!GroceryStore.IsDone)
+            
     {
         <li>        
             <input type="checkbox" @bind="GroceryStore.IsDone" />
@@ -13,23 +16,32 @@
         </li>
 
     }
+    }
 </ul>
 
-
-
-
 @code {
-   
-
-    private List<FoodItem> GroceryStorelist = new();
-         private string newGroceryStore;
+        private List<FoodItem> GroceryStorelist = new();
+         private string newGroceryStoreTitle;
         private void AddGroceryStore ()
         {
-        if (!string.IsNullOrWhiteSpace(newGroceryStore))
+            FoodItem newItem;
+        if (!string.IsNullOrWhiteSpace(newGroceryStoreTitle))
+
         {
-            GroceryStorelist.Add(new FoodItem { Title = newGroceryStore });
-            newGroceryStore = string.Empty;
+             newItem = new FoodItem
+            {
+                Title = newGroceryStoreTitle
+                @* IsDone = true *@
+            };
+            GroceryStorelist.Add(new FoodItem { Title = newGroceryStoreTitle });
+            newGroceryStoreTitle = string.Empty;
         }
+        }
+   
+    private bool GroceryStoreIsDone(FoodItem singleFoodItem)
+    {
+        return !singleFoodItem.IsDone;
     }
+    
     
 }

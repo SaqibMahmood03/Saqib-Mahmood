@@ -91,20 +91,38 @@ using SaqibMahmoodGroceryApp.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 21 "C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodGroceryApp\Pages\GroceryStore.razor"
+#line 22 "C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodGroceryApp\Pages\GroceryStore.razor"
        
-   
-
-    private List<FoodItem> GroceryStorelist = new();
-         private string newGroceryStore;
+        private List<FoodItem> GroceryStorelist = new();
+         private string newGroceryStoreTitle;
         private void AddGroceryStore ()
         {
-        if (!string.IsNullOrWhiteSpace(newGroceryStore))
+            FoodItem newItem;
+        if (!string.IsNullOrWhiteSpace(newGroceryStoreTitle))
+
         {
-            GroceryStorelist.Add(new FoodItem { Title = newGroceryStore });
-            newGroceryStore = string.Empty;
+             newItem = new FoodItem
+            {
+                Title = newGroceryStoreTitle
+                
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 34 "C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodGroceryApp\Pages\GroceryStore.razor"
+                                   
+            };
+            GroceryStorelist.Add(new FoodItem { Title = newGroceryStoreTitle });
+            newGroceryStoreTitle = string.Empty;
         }
+        }
+   
+    private bool GroceryStoreIsDone(FoodItem singleFoodItem)
+    {
+        return !singleFoodItem.IsDone;
     }
+    
     
 
 #line default
