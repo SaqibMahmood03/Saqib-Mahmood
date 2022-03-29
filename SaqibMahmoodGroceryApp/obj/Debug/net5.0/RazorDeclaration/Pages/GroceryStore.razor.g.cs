@@ -95,6 +95,8 @@ using SaqibMahmoodGroceryApp.Shared;
        
         private List<FoodItem> GroceryStorelist = new();
          private string newGroceryStoreTitle;
+          public int[] Quantities { get; set; } 
+          
         private void AddGroceryStore ()
         {
             FoodItem newItem;
@@ -110,7 +112,7 @@ using SaqibMahmoodGroceryApp.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 34 "C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodGroceryApp\Pages\GroceryStore.razor"
+#line 36 "C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodGroceryApp\Pages\GroceryStore.razor"
                                    
             };
             GroceryStorelist.Add(new FoodItem { Title = newGroceryStoreTitle });
