@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": -547071158,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodGroceryApp.Pages.Index",
-        "AssemblyName": "SaqibMahmoodGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1872114254,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodGroceryApp.Pages.Index",
-        "AssemblyName": "SaqibMahmoodGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SaqibMahmoodGroceryApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -651152848,
         "Kind": "Components.Component",
         "Name": "SaqibMahmoodGroceryApp.Pages.Counter",
@@ -107,6 +74,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -547071158,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodGroceryApp.Pages.Index",
+        "AssemblyName": "SaqibMahmoodGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1872114254,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodGroceryApp.Pages.Index",
+        "AssemblyName": "SaqibMahmoodGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SaqibMahmoodGroceryApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodGroceryApp.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
