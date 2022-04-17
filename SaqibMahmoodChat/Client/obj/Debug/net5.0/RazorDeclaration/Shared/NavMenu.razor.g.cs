@@ -90,7 +90,7 @@ using SaqibMahmoodChat.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Client\Shared\NavMenu.razor"
+#line 29 "C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

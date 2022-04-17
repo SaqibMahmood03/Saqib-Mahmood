@@ -204,12 +204,12 @@
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
       "SaqibMahmoodChat.Shared.dll": "sha256-7L+vPo\/5JsPAyp4\/5szU5aeytQVhNCuZjTTqgef8kQk=",
-      "SaqibMahmoodChat.Client.dll": "sha256-KGfneI8HaUNnCwb5EnS6RAsk5oIlQxO7InYTxZVC3OQ="
+      "SaqibMahmoodChat.Client.dll": "sha256-71vMk\/ssE36YqT6wUlgxT9tt6J5CJmG8W+4mIP\/a0fM="
     },
     "lazyAssembly": null,
     "pdb": {
       "SaqibMahmoodChat.Shared.pdb": "sha256-G++yKey\/bOV0UuuE71DSAceZtrQBN0oyFCboaMPy408=",
-      "SaqibMahmoodChat.Client.pdb": "sha256-a9vg4rhhHwvKmOpSVfspDSvM7ZuhEchiB4Xb6tuzb5M="
+      "SaqibMahmoodChat.Client.pdb": "sha256-a03Quk0upGlZ3+a\/\/mUoEfetNX8521rLGABnEby5wAc="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",

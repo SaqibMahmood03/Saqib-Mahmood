@@ -8,138 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -488679406,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.App",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.App"
-        }
-      },
-      {
-        "HashCode": -1998609223,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.App",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SaqibMahmoodChat.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 194611868,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.Pages.Counter",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 943668487,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.Pages.Counter",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SaqibMahmoodChat.Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1617283443,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.Pages.FetchData",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 487916056,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.Pages.FetchData",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SaqibMahmoodChat.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -879306493,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.Pages.Index",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 2019690238,
-        "Kind": "Components.Component",
-        "Name": "SaqibMahmoodChat.Client.Pages.Index",
-        "AssemblyName": "SaqibMahmoodChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SaqibMahmoodChat.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 175655849,
         "Kind": "Components.Component",
         "Name": "SaqibMahmoodChat.Client.Shared.SurveyPrompt",
@@ -318,6 +186,138 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SaqibMahmoodChat.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 194611868,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.Pages.Counter",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 943668487,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.Pages.Counter",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SaqibMahmoodChat.Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1617283443,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.Pages.FetchData",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 487916056,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.Pages.FetchData",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SaqibMahmoodChat.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -879306493,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.Pages.Index",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 2019690238,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.Pages.Index",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SaqibMahmoodChat.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -488679406,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.App",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.App"
+        }
+      },
+      {
+        "HashCode": -1998609223,
+        "Kind": "Components.Component",
+        "Name": "SaqibMahmoodChat.Client.App",
+        "AssemblyName": "SaqibMahmoodChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SaqibMahmoodChat.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SaqibMahmoodChat.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
