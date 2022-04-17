@@ -1,0 +1,12 @@
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\bin\Debug\net5.0\SaqibMahmoodChat.Shared.deps.json
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\bin\Debug\net5.0\SaqibMahmoodChat.Shared.dll
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\bin\Debug\net5.0\ref\SaqibMahmoodChat.Shared.dll
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\bin\Debug\net5.0\SaqibMahmoodChat.Shared.pdb
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\SaqibMahmoodChat.Shared.csproj.AssemblyReference.cache
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\SaqibMahmoodChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\SaqibMahmoodChat.Shared.AssemblyInfoInputs.cache
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\SaqibMahmoodChat.Shared.AssemblyInfo.cs
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\SaqibMahmoodChat.Shared.csproj.CoreCompileInputs.cache
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\SaqibMahmoodChat.Shared.dll
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\ref\SaqibMahmoodChat.Shared.dll
+C:\STUDY sem 2\ASP\Saqib-Mahmood\SaqibMahmoodChat\Shared\obj\Debug\net5.0\SaqibMahmoodChat.Shared.pdb
