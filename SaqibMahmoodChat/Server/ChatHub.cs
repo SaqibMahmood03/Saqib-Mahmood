@@ -9,5 +9,6 @@ namespace SaqibMahmoodChat.Server.Hubs
         {
             await Clients.All.SendAsync("ReceiveMessage", user, message);
         }
+        
     }
 }
