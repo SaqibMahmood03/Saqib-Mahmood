@@ -14,7 +14,7 @@
 }
 
 .top-row[b-hl9jbc6ijt] {
-    background-image: linear-gradient(180deg, rgb(80, 184, 253) 0%, #13498f 70%);
+    background-color:rgb(80, 184, 253);
     border-bottom: 1px solid #000000;
     justify-content: flex-end;
     height: 3.5rem;
